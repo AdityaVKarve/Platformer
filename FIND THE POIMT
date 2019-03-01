@@ -1,0 +1,25 @@
+https://www.hackerrank.com/challenges/find-point/problem
+
+/*  AUTHOR:AKASH JAIN
+ *   USERNAME:akash19jain
+ *   DATE:11/02/2019
+ */
+#include <math.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main() {
+  long long t;
+  scanf("%lld", &t);
+  while (t--) {
+    long long a, b, c, d;
+    scanf("%lld%lld%lld%lld", &a, &b, &c, &d);
+    int x = 2 * c - a;
+    int y = 2 * d - b;
+    printf("%d %d\n", x, y);
+  }
+
+  return 0;
+}
