@@ -1,5 +1,5 @@
 # Platformer
-A simple platformer in Java.
+A simple platformer in Java. Uses the native shapes library. The level is a bit of a rip off of the first level of Mario.
 
 Things implemented:
 1. Collision detection
