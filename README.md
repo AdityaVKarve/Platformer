@@ -22,4 +22,8 @@ Gameplay:
 
 ![image](https://user-images.githubusercontent.com/29706261/165630512-c473d5e8-8fee-47c2-9cae-82750bbe327a.png)
 
+(Collecting coins)
+
 ![image](https://user-images.githubusercontent.com/29706261/165630629-ef0d66d0-6284-4e4f-97da-2c2250e9728b.png)
+
+(Avoiding an enemy)
